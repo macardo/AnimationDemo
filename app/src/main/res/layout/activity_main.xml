@@ -38,6 +38,16 @@
         android:layout_marginTop="180dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:visibility="gone"
+        />
+
+    <Button
+        android:id="@+id/allBtn"
+        android:text="全动画"
+        android:layout_gravity="center"
+        android:layout_marginTop="180dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         />
 
 
